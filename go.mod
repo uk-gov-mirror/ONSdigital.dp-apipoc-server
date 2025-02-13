@@ -1,3 +1,4 @@
+// Deprecated: This repository was archived in February 2025 as it is no longer in development
 module github.com/ONSdigital/dp-apipoc-server
 
 go 1.22
@@ -32,6 +33,6 @@ require (
 	go.opentelemetry.io/otel v1.28.0 // indirect
 	go.opentelemetry.io/otel/metric v1.28.0 // indirect
 	go.opentelemetry.io/otel/trace v1.28.0 // indirect
-	golang.org/x/net v0.28.0 // indirect
-	golang.org/x/sys v0.23.0 // indirect
+	golang.org/x/net v0.35.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
 )
